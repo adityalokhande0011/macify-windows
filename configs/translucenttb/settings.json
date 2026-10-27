@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "desktop": {
+    "accent": "clear",
+    "color": {
+      "r": 25,
+      "g": 25,
+      "b": 28,
+      "a": 0
+    },
+    "show_peek": false
+  },
+  "visible_window": {
+    "accent": "acrylic",
+    "color": {
+      "r": 28,
+      "g": 28,
+      "b": 32,
+      "a": 180
+    },
+    "show_peek": false
+  },
+  "maximized_window": {
+    "accent": "acrylic",
+    "color": {
+      "r": 22,
+      "g": 22,
+      "b": 25,
+      "a": 220
+    },
+    "show_peek": false
+  },
+  "start_opened": {
+    "accent": "acrylic",
+    "color": {
+      "r": 30,
+      "g": 30,
+      "b": 35,
+      "a": 200
+    },
+    "show_peek": false
+  },
+  "search_opened": {
+    "accent": "acrylic",
+    "color": {
+      "r": 30,
+      "g": 30,
+      "b": 35,
+      "a": 200
+    },
+    "show_peek": false
+  },
+  "task_view_opened": {
+    "accent": "acrylic",
+    "color": {
+      "r": 30,
+      "g": 30,
+      "b": 35,
+      "a": 200
+    },
+    "show_peek": false
+  },
+  "battery_saver": {
+    "accent": "clear",
+    "color": {
+      "r": 25,
+      "g": 25,
+      "b": 28,
+      "a": 0
+    },
+    "show_peek": false
+  },
+  "sleep_margin": 10,
+  "advanced": {
+    "accent_api_level": "windows_11",
+    "enable_dynamic_states": true
+  }
+}
